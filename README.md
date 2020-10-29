@@ -1,6 +1,7 @@
 # Assignment7
-Post-delivery Maintenance
+                    Post-delivery Maintenance
 Assignment
+
 You’re a new hire at AtoZ corp. In your first sprint planning meeting with your new teammates, they assign you a few tickets for one of their products, 
 Fancy Calculator. The tickets read:
 Ticket 1. Defect: Equals sign causes exception message
