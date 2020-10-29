@@ -6,9 +6,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 import static org.mockito.Mockito.*;  // At top of file
-// In test method:
-//Random random = mock(Random.class);
-//        when(random.nextDouble()).thenReturn(0.1);
+In test method:
+Random random = mock(Random.class);
+when(random.nextDouble()).thenReturn(0.1);
 
 public class ControllerTest {
 
